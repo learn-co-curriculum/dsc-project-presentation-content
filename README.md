@@ -62,8 +62,8 @@ In practical terms, your presentation should have three parts:
   - [ ] What impacts your confidence in the solution, limitations
   - [ ] How to build off your work with next steps and future work
 
-
-## Exercise:
+### Exercise: 
+Begin to draft text for each section of your presentation, taking from your notebook as needed. In _three sentences or less_ what is the information needed to address each section above?
 
 ### Draft an outline of your presentation - how to draft the outline of a presentation
 [at the slide level] - how many slides and what will each one contain?
@@ -87,4 +87,4 @@ Use your audience persona to shape what you put in your presentation. A research
 
 
 
-
+### Exercise:
