@@ -6,7 +6,8 @@ What counts as slide content? Anything writen or spoken, so content includes eve
 - create a description of the example project's target audience
 - list the content sections that are expectede in a data science presentation
 - connect the presentation components with a narrative arc
-- review each bit of slide content with a few key questions
+- create an outline for your presentation
+
 
 ### create a description of the example project's target audience
 
@@ -26,20 +27,7 @@ Every bit of slide content will be filtered through the answers to those questio
 **Non technical backgroun?** ---> Drop jargon, include only the most relevant information <br>
 **Sign-off on your work continiuing?** ---> focus on  the real life impact of your work. Always tie your results to real world numbers and how the answers you provide are solutions to real problems.
 
-### list the content sections that are expectede in a data science presentation
 
-At a minimum, your presentation materials should communicate the highlights of your analysis:
-
-- [ ] introduction & business context
-- [ ] data science process steps
-- [ ] future improvement ideas
-- [ ] contact info.
-
-The key points of your analysis should be there in your presentation, but only if the material can pass the "so what?" test. The "so what?" test is "So what does this information matter to me, your potential audience?" <br>
-Do you share all the tests you ran to get to your final analysis or do you focus on the interpretation of the baseline vs the final model in detail? <br>
-Do you have a slide filled with R-squared, mean squared error, root mean squared error, and other statistics, or do you discuss the confidence you have in your model based on its comparitive performance?
-
-[need connecting text here]
 
 ## connect the presentation components with a narrative arc
 
@@ -73,9 +61,29 @@ In practical terms, your presentation should have three parts:
   - [ ] What impacts your confidence in the solution, limitations
   - [ ] How to build off your work with next steps and future work
 
-[ More transition text needed here]
 
-### review each bit of slide content with a few key questions
-What counts as slide content? Anything writen or spoken, so content includes slide titles along with slide notes to guide your talk.
-- Can this text be moved to the slide notes?
-- Are the slide titles informative versus section headings?
+## Exercise:
+
+### Draft an outline of your presentation - how to draft the outline of a presentation
+[at the slide level] - how many slides and what will each one contain?
+
+
+At a minimum, your presentation materials should communicate the highlights of your analysis:
+
+- [ ] introduction & business context (a few slides)
+- [ ] data science process steps (another few slides)
+- [ ] future improvement ideas ( 1 slide)
+- [ ] contact info. (1 slide)
+
+At this point do not worry about what goes in your slide versus what goes in your voice over. This step focuses on pairing **one key point** with **each slide** in your presentation.
+
+#### What is a key point?
+
+Is a key point that you had a R-squared of 87% or that your model had good predictive power?
+
+The key points of your analysis should be there in your presentation, but only if the material can pass the "so what?" test. The "so what?" test is "So what does this information matter to me, your potential audience?" <br>
+Use your audience persona to shape what you put in your presentation. A research scientist in the technical department of a company will have more interest in deep statistical tests than the CEO. If you are presenting to a coworker you sit two cubes away from - having a contact slide might be wierd. 
+
+
+
+
