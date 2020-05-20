@@ -1,9 +1,6 @@
-# dsc-postgrad-project-slide-content
+# Planning presentation content
 
-
-Part 1: Content/Storytelling: 
-If you've reached adulthood, by now you've probably seen a bad powerpoint or google slides presentation.
-Creating a good presentation is an exercise in empathy, putting yourself in the mindset of the audience before you start to create slides. 
+What counts as slide content? Anything writen or spoken, so content includes everything from slide titles to the slide notes to guide your talk. There is no consistent formula for the perfect presentation every time. There are only guidelines for creating _better_ presentation material, which you will review using our sample presentation slides.
 
 ## Learning goals:
 - create a description of the example project's target audience
@@ -13,12 +10,15 @@ Creating a good presentation is an exercise in empathy, putting yourself in the 
 
 ### create a description of the example project's target audience
 
-Before you draft the outline of your presentation, describe the target audience for the presentation by answering these questions:
-1. Who will be receiving your presentation?
-2. What is their background, technical or non-technical?
-3. What is the person's role in the company?
-4. How will your presentatioon affect their work or a decision they need to make?
-5. What is their attention span?
+Creating a good presentation is an exercise in empathy, putting yourself in the mindset of the audience before you start to create slides. So before you draft the outline of your presentation, describe the target audience for the presentation by answering these questions:
+
+| **Question** | **Example Answer** |
+|----------|----------------|
+| 1. Who will be receiving your presentation and what is their roll in the company? |  Mid-level manager |
+| 2. What is their background, technical or non-technical? | With a non-technical background |
+| 3. How will your presentation affect their work or a decision they need to make? | make wait time shorter, reduce work load, prioritize workload, save lives, etc |
+| 4. What is their attention span? | Extremely short  |
+| 5. What is the goal of the presentation? | To convince the manager that your results will have such a large impact on the business, that you should be allowed to continue the next steps and future work of your analysis. |
 
 Every  presentation  needs to have a  goal: to inform,  to convince, to sell. The task of creatinng a  good presentation is to create an effective communication of your project in a condensed and efficient form. 
 
