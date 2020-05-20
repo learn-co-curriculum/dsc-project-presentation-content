@@ -34,7 +34,7 @@ Take a moment to answer the audience persona questions for your capstone and mod
 
 In storytelling and narration there is conflict, resolution, and the journey in between. Your data science presentation can be arranged the same way. Plus, maintaining a narrative arc throughout your presentation will keep the audience engaged and help retention of information.
 
-A great example of this is the children's book ["Don't let pigeon drive the bus"](http://pigeonpresents.com/books/dont-let-the-pigeon-drive-the-bus/) by Mo Willems.
+A great example of this is the children's book ["Don't let pigeon drive the bus"](http://pigeonpresents.com/books/dont-let-the-pigeon-drive-the-bus/) by Mo Willems. [here is a link to hear the book].(https://www.youtube.com/watch?v=n-dHeNfXtgc)
 - Title reveals the main point of the story. It's catchy. It's not "An observation of avairy conflict in transportation permissions"
 - Problem is established from the beginning - We've been told by the bus driver that pigeon wants to drive, but we are not to let him
 - It's a children's book, so we can assume that a **successful** ending is one where we suceed in not letting pigeon ride the bus
@@ -63,28 +63,26 @@ In practical terms, your presentation should have three parts:
   - [ ] How to build off your work with next steps and future work
 
 ### Exercise: 
-Begin to draft text for each section of your presentation, taking from your notebook as needed. In _three sentences or less_ what is the information needed to address each section above?
+Collect the essential information each section of your presentation from your notebook. In _three sentences or less_ what is the information needed to address each section above?
 
-### Draft an outline of your presentation - how to draft the outline of a presentation
+## Drafting an outline of a presentation 
 [at the slide level] - how many slides and what will each one contain?
 
+Now that you have all the essenntial information, you can begin to organize content into an outline. At this point do not worry about what goes in your slide versus what goes in your voice over. This step focuses on pairing **one key point** with **each slide** in your presentation.
 
-At a minimum, your presentation materials should communicate the highlights of your analysis:
+Use your audience persona to shape what you put in your presentation. A research scientist in the technical department of a company will have more interest in deep statistical tests than the CEO. If you are presenting to a coworker you sit two cubes away from - having a contact slide might be wierd.
 
-- [ ] introduction & business context (a few slides)
-- [ ] data science process steps (another few slides)
-- [ ] future improvement ideas ( 1 slide)
+With a slide for each point, at a minimum you should have:
+
+- [ ] introduction
+- [ ] business context
+- [ ] data 
+- [ ] science process steps (a few slides)
+- [ ] results & business application (another few slides)
+- [ ] evaluation & future improvement ideas (easily more than one slide)
 - [ ] contact info. (1 slide)
 
-At this point do not worry about what goes in your slide versus what goes in your voice over. This step focuses on pairing **one key point** with **each slide** in your presentation.
 
-#### What is a key point?
+### Exercise: 
 
-Is a key point that you had a R-squared of 87% or that your model had good predictive power?
-
-The key points of your analysis should be there in your presentation, but only if the material can pass the "so what?" test. The "so what?" test is "So what does this information matter to me, your potential audience?" <br>
-Use your audience persona to shape what you put in your presentation. A research scientist in the technical department of a company will have more interest in deep statistical tests than the CEO. If you are presenting to a coworker you sit two cubes away from - having a contact slide might be wierd. 
-
-
-
-### Exercise:
+Take some time to organize the key points of your analysis into an outline.
