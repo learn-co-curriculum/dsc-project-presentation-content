@@ -4,12 +4,12 @@ What counts as slide content? Anything writen or spoken, so content includes eve
 
 ## Learning goals:
 - create a description of the example project's target audience
-- list the content sections that are expectede in a data science presentation
 - connect the presentation components with a narrative arc
+- list the content sections that are expectede in a data science presentation
 - create an outline for your presentation
 
 
-### create a description of the example project's target audience
+## Create a description of the example project's target audience
 
 Creating a good presentation is an exercise in empathy, putting yourself in the mindset of the audience before you start to create slides. So before you draft the outline of your presentation, describe the target audience for the presentation by answering these questions:
 
@@ -27,18 +27,19 @@ Every bit of slide content will be filtered through the answers to those questio
 **Non technical backgroun?** ---> Drop jargon, include only the most relevant information <br>
 **Sign-off on your work continiuing?** ---> focus on  the real life impact of your work. Always tie your results to real world numbers and how the answers you provide are solutions to real problems.
 
+### Exercise: 
+Take a moment to answer the audience persona questions for your capstone and module projects. How was your audience described in the assignment?
 
-
-## connect the presentation components with a narrative arc
+## Connect the presentation with a narrative arc
 
 In storytelling and narration there is conflict, resolution, and the journey in between. Your data science presentation can be arranged the same way. Plus, maintaining a narrative arc throughout your presentation will keep the audience engaged and help retention of information.
 
-A great example of this is the children's book "Don't let pigeon drive the bus"
+A great example of this is the children's book ["Don't let pigeon drive the bus"](http://pigeonpresents.com/books/dont-let-the-pigeon-drive-the-bus/) by Mo Willems.
 - Title reveals the main point of the story. It's catchy. It's not "An observation of avairy conflict in transportation permissions"
 - Problem is established from the beginning - We've been told by the bus driver that pigeon wants to drive, but we are not to let him
-- It's a children's book, rules are important, so we can assume that a **successful** endinig is one where we suceed in not letting pigeon ride the bus
-- the book is filled with pigeon's attempts to convince us to let him ride the bus
-- the bus driver returns and thanks us for not letting pigeon drive the bus
+- It's a children's book, so we can assume that a **successful** ending is one where we suceed in not letting pigeon ride the bus
+- The book is filled with pigeon's attempts to convince us to let him ride the bus
+- The bus driver returns and thanks us for not letting pigeon drive the bus
 
 How is this related?
 - Have a catchy title that reveals the answer and your findings
