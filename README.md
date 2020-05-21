@@ -66,7 +66,6 @@ In practical terms, your presentation should have three parts:
 Collect the essential information each section of your presentation from your notebook. In _three sentences or less_ what is the information needed to address each section above?
 
 ## Drafting an outline of a presentation 
-[at the slide level] - how many slides and what will each one contain?
 
 Now that you have all the essenntial information, you can begin to organize content into an outline. At this point do not worry about what goes in your slide versus what goes in your voice over. This step focuses on pairing **one key point** with **each slide** in your presentation.
 
