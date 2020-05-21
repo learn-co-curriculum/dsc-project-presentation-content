@@ -1,5 +1,7 @@
 # Planning presentation content
 
+## Introduction 
+
 What counts as slide content? Anything writen or spoken, so content includes everything from slide titles to the slide notes to guide your talk. There is no consistent formula for the perfect presentation every time. There are only guidelines for creating _better_ presentation material, which you will review using our sample presentation slides.
 
 ## Learning goals:
