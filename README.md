@@ -1,55 +1,62 @@
-# Planning presentation content
+# Planning Presentation Content
 
 ## Introduction 
 
-What counts as slide content? Anything writen or spoken, so content includes everything from slide titles to the slide notes to guide your talk. There is no consistent formula for the perfect presentation every time. There are only guidelines for creating _better_ presentation material, which you will review using our sample presentation slides.
+What counts as slide content? Anything written or spoken during a presentation! Content includes everything from slide titles to the slide notes that guide your talk. There is no consistent formula for the perfect presentation every time. There are only guidelines for creating _better_ presentation materials, which you will review using our sample presentation slides.
 
 ## Learning goals:
+
 - create a description of the example project's target audience
 - connect the presentation components with a narrative arc
-- list the content sections that are expectede in a data science presentation
-- create an outline for your presentation
+- list the content sections that are expected in a data science presentation
+- create an outline for the presentation
 
+## Describe the Target Audience
 
-## Create a description of the example project's target audience
-
-Creating a good presentation is an exercise in empathy, putting yourself in the mindset of the audience before you start to create slides. So before you draft the outline of your presentation, describe the target audience for the presentation by answering these questions:
+Creating a good presentation is an exercise in empathy: putting yourself in the mindset of the audience before you start to create slides. Before you draft the outline of your presentation, describe the target audience for the presentation by answering these questions:
 
 | **Question** | **Example Answer** |
-|----------|----------------|
-| 1. Who will be receiving your presentation and what is their roll in the company? |  Mid-level manager |
-| 2. What is their background, technical or non-technical? | With a non-technical background |
-| 3. How will your presentation affect their work or a decision they need to make? | make wait time shorter, reduce work load, prioritize workload, save lives, etc |
-| 4. What is their attention span? | Extremely short  |
-| 5. What is the goal of the presentation? | To convince the manager that your results will have such a large impact on the business, that you should be allowed to continue the next steps and future work of your analysis. |
+|--------------|----------------|
+| 1. Who will be receiving your presentation, and what is their roll in the company? |  Mid-level manager |
+| 2. What is their background: technical or non-technical? | With a non-technical background |
+| 3. How will your presentation affect their work or a decision they need to make? | Make wait time shorter, reduce work load, prioritize workload, save lives, etc. |
+| 4. What is their attention span? | Extremely short |
+| 5. What is the goal of the presentation? | To convince the manager that your results will have such a large impact on the business, that you should be allowed to continue the future work of your analysis |
 
-Every bit of slide content will be filtered through the answers to those questions. 
+Every bit of slide content will be filtered through the answers to those questions! 
 
-**Extremely short attenion span?** ---> Concise text, attention grabbing titles, hook in the listener/reader <br>
-**Non technical backgroun?** ---> Drop jargon, include only the most relevant information <br>
-**Sign-off on your work continiuing?** ---> focus on  the real life impact of your work. Always tie your results to real world numbers and how the answers you provide are solutions to real problems.
+**Extremely short attention span?** ---> Concise text, attention grabbing titles, hook in the listener/reader
+
+**Non technical background?** ---> Drop jargon, include only the most relevant information
+
+**Sign-off on your work continuing?** ---> Focus on the real life impact of your work. Always tie your results to real world numbers and how the answers you provide are solutions to real problems.
 
 ### Exercise: 
 Take a moment to answer the audience persona questions for your capstone and module projects. How was your audience described in the assignment?
 
-## Connect the presentation with a narrative arc
+## Narrative Arc
 
-In storytelling and narration there is conflict, resolution, and the journey in between. Your data science presentation can be arranged the same way. Plus, maintaining a narrative arc throughout your presentation will keep the audience engaged and help retention of information.
+In storytelling and narration there is conflict, resolution, and the journey in between. Your data science presentation can be arranged the same way. Plus, maintaining a narrative arc throughout your presentation will keep the audience engaged and help them retain information.
 
-A great example of this is the children's book ["Don't let pigeon drive the bus"](http://pigeonpresents.com/books/dont-let-the-pigeon-drive-the-bus/) by Mo Willems. [here is a link to hear the book](https://www.youtube.com/watch?v=n-dHeNfXtgc)
-- Title reveals the main point of the story. It's catchy. It's not "An observation of avairy conflict in transportation permissions"
-- Problem is established from the beginning - We've been told by the bus driver that pigeon wants to drive, but we are not to let him
-- It's a children's book, so we can assume that a **successful** ending is one where we suceed in not letting pigeon ride the bus
-- The book is filled with pigeon's attempts to convince us to let him ride the bus
+!['LET ME DRIVE THE BUS' says the pidgeon in the book, 'Don't Let the Pigeon Drive the Bus' by Mo Willems](images/Dont-Let-the-Pigeon-Drive-the-Bus-14-1024x518.jpg)
+
+A great example of this is the children's book [__Don't Let the Pigeon Drive the Bus!__](http://pigeonpresents.com/books/dont-let-the-pigeon-drive-the-bus/) by Mo Willems. [Here is a link to hear the book read aloud](https://www.youtube.com/watch?v=n-dHeNfXtgc).
+
+- Title reveals the main point of the story. It's catchy. It's not __An Observation of Avian Conflict in Transportation Permissions__
+- Problem is established from the beginning - We've been told by the bus driver that the pigeon wants to drive, but we are not supposed to let him
+- It's a children's book, so we can assume that a **successful** ending is one where we succeed in not letting the pigeon drive the bus
+- The book is filled with the pigeon's attempts to convince us to let him drive the bus
 - The bus driver returns and thanks us for not letting pigeon drive the bus
 
 How is this related?
+
 - Have a catchy title that reveals the answer and your findings
-- Then establish the business problem and scenario at the beginning in detail (the conflict)
+- TEstablish the business problem and scenario at the beginning in detail (the conflict)
 - With the answer already revealed, go through the most meaningful work that impacted the final result (the journey)
 - At the end, revisit the original problem and tie the entire presentation together (the resolution and ever after)
 
 In practical terms, your presentation should have three parts:
+
 - Tell them what you're going to tell them
   - [ ] the problem
   - [ ] the solution
@@ -65,23 +72,24 @@ In practical terms, your presentation should have three parts:
   - [ ] How to build off your work with next steps and future work
 
 ### Exercise: 
+
 Collect the essential information each section of your presentation from your notebook. In _three sentences or less_ what is the information needed to address each section above?
 
 ## Drafting an outline of a presentation 
 
-Now that you have all the essenntial information, you can begin to organize content into an outline. At this point do not worry about what goes in your slide versus what goes in your voice over. This step focuses on pairing **one key point** with **each slide** in your presentation.
+Now that you have all the essential information, you can begin to organize content into an outline. At this point do not worry about what goes on your slide versus what goes in your voice over. This step focuses on pairing **one key point** with **each slide** in your presentation.
 
-Use your audience persona to shape what you put in your presentation. A research scientist in the technical department of a company will have more interest in deep statistical tests than the CEO. If you are presenting to a coworker you sit two cubes away from - having a contact slide might be wierd.
+Use your audience persona to shape what you put in your presentation. A research scientist in the technical department of a company will have more interest in deep statistical tests than the CEO. If you are presenting to a coworker you sit next to, having a contact slide might be weird.
 
 With a slide for each point, at a minimum you should have:
 
 - [ ] introduction
 - [ ] business context
 - [ ] data 
-- [ ] science process steps (a few slides)
-- [ ] results & business application (another few slides)
-- [ ] evaluation & future improvement ideas (easily more than one slide)
-- [ ] contact info. (1 slide)
+- [ ] process steps
+- [ ] results & business application (recommendations)
+- [ ] evaluation & future improvement ideas
+- [ ] contact information
 
 
 ### Exercise: 
