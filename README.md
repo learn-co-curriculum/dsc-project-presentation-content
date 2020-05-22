@@ -4,12 +4,12 @@
 
 What counts as slide content? Anything written or spoken during a presentation! Content includes everything from slide titles to the slide notes that guide your talk. There is no consistent formula for the perfect presentation every time. There are only guidelines for creating _better_ presentation materials, which you will review using our sample presentation slides.
 
-## Learning goals:
+## Learning Goals:
 
-- create a description of the example project's target audience
-- connect the presentation components with a narrative arc
-- list the content sections that are expected in a data science presentation
-- create an outline for the presentation
+- Create a description of the example project's target audience
+- Connect the presentation components with a narrative arc
+- List the content sections that are expected in a data science presentation
+- Create an outline for the presentation
 
 ## Describe the Target Audience
 
@@ -51,7 +51,7 @@ A great example of this is the children's book [__Don't Let the Pigeon Drive the
 How is this related?
 
 - Have a catchy title that reveals the answer and your findings
-- TEstablish the business problem and scenario at the beginning in detail (the conflict)
+- Establish the business problem and scenario at the beginning in detail (the conflict)
 - With the answer already revealed, go through the most meaningful work that impacted the final result (the journey)
 - At the end, revisit the original problem and tie the entire presentation together (the resolution and ever after)
 
