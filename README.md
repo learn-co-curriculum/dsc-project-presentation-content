@@ -4,7 +4,9 @@
 
 What counts as slide content? Anything written or spoken during a presentation! Content includes everything from slide titles to the slide notes that guide your talk. There is no consistent formula for the perfect presentation every time. There are only guidelines for creating _better_ presentation materials, which you will review using our sample presentation slides.
 
-## Learning Goals:
+## Objectives
+
+You will be able to:
 
 - Create a description of the example project's target audience
 - Connect the presentation components with a narrative arc
@@ -31,7 +33,7 @@ Every bit of slide content will be filtered through the answers to those questio
 
 **Sign-off on your work continuing?** ---> Focus on the real life impact of your work. Always tie your results to real world numbers and how the answers you provide are solutions to real problems.
 
-### Exercise: 
+### Exercise
 Take a moment to answer the audience persona questions for your capstone and module projects. How was your audience described in the assignment?
 
 ## Narrative Arc
@@ -71,7 +73,7 @@ In practical terms, your presentation should have three parts:
   - [ ] What impacts your confidence in the solution, limitations
   - [ ] How to build off your work with next steps and future work
 
-### Exercise: 
+### Exercise
 
 Collect the essential information each section of your presentation from your notebook. In _three sentences or less_ what is the information needed to address each section above?
 
@@ -91,7 +93,10 @@ With a slide for each point, at a minimum you should have:
 - [ ] evaluation & future improvement ideas
 - [ ] contact information
 
-
-### Exercise: 
+### Exercise
 
 Take some time to organize the key points of your analysis into an outline.
+
+## Summary
+
+Great job! Next, we're going to review an existing presentation.
