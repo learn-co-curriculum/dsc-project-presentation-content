@@ -40,7 +40,7 @@ Take a moment to answer the audience persona questions for your capstone and mod
 
 In storytelling and narration there is conflict, resolution, and the journey in between. Your data science presentation can be arranged the same way. Plus, maintaining a narrative arc throughout your presentation will keep the audience engaged and help them retain information.
 
-!['LET ME DRIVE THE BUS' says the pidgeon in the book, 'Don't Let the Pigeon Drive the Bus' by Mo Willems](https://raw.githubusercontent.com/learn-co-curriculum/dsc-postgrad-project-presentation-planning/master/images/Dont-Let-the-Pigeon-Drive-the-Bus-14-1024x518.jpg)
+!['LET ME DRIVE THE BUS' says the pidgeon in the book, 'Don't Let the Pigeon Drive the Bus' by Mo Willems](https://raw.githubusercontent.com/learn-co-curriculum/dsc-postgrad-project-presentation-planning/master/Dont-Let-the-Pigeon-Drive-the-Bus-14-1024x518.jpg)
 
 A great example of this is the children's book [__Don't Let the Pigeon Drive the Bus!__](http://pigeonpresents.com/books/dont-let-the-pigeon-drive-the-bus/) by Mo Willems. [Here is a link to hear the book read aloud](https://www.youtube.com/watch?v=n-dHeNfXtgc).
 
