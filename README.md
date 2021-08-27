@@ -1,4 +1,4 @@
-# Planning Presentation Content
+# Presentation Content
 
 ## Introduction 
 
