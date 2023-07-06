@@ -88,13 +88,13 @@ Use your audience persona to shape what you put in your presentation. A research
 
 With a slide for each point, at a minimum you should have:
 
-- [ ] introduction
-- [ ] business context
-- [ ] data 
-- [ ] process steps
-- [ ] results & business application (recommendations)
-- [ ] evaluation & future improvement ideas
-- [ ] contact information
+-  introduction
+- business context
+- data 
+- process steps
+- results & business application (recommendations)
+- evaluation & future improvement ideas
+- contact information
 
 
 ### Exercise: 
